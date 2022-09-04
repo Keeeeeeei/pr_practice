@@ -313,13 +313,27 @@ members: [
     }
   },
   {
-   tanamaru: {
-      bio: "全くの未経験からですが、がんばります！"
-      hobby: ["野球", "ディズニー"],
-      github: "tanamarugit"
+    shu09: {
+      bio: "2022年１２月までに転職するために学習しています", 
+      hobby: ["音楽鑑賞", "ゲーム"],
+      github: "shusaku009"
     }
   },
-   
+  {
+    yoshi32: {
+      bio: "ぼちぼち頑張ってます", 
+      hobby: ["野球", "犬"],
+      github: "fujisawayoshitaka" 
+    }
+  },
+  {
+    kei: {
+      bio: "医療従事者からエンジニア転職目指しています。将来は海外でエンジニアとして働く事が目標です。", 
+      hobby: ["ポーカー", "キックボクシング"],
+      github: "Keeeeeeei"
+    }
+  },
+
 ]
 
 ```
